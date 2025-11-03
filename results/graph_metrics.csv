@@ -1,0 +1,7 @@
+GraphName,Vertices,Edges,SCC_Count,IsDAG,TopoSortPossible,ExecutionTimeMs
+small_graph1,4,3,4,true,true,49
+small_graph2,4,3,4,true,true,2
+medium_graph1,4,3,4,true,true,2
+medium_graph2,4,3,4,true,true,1
+large_graph1,4,3,4,true,true,1
+large_graph2,4,3,4,true,true,3
